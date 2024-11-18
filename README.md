@@ -1,5 +1,5 @@
 - Hello, I’m @audrainess
-- I am a physician scientist studying cancer genetics and bioinformatics
+- I am a physician scientist studying medical genetics with an interest in diagnostics, new technologies (especially single cell sequencing), and bioinformatics
 - Reach me via Twitter @audrainess or audrainess@gmail.com
 
 <!---
