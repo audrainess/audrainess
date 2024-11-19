@@ -1,6 +1,6 @@
 - Hello, I’m @audrainess
 - I am a physician scientist studying medical genetics at Baylor College of Medicine
-- My interests include (and are NOT limited to) diagnostics, new technologies (especially single cell sequencing), and bioinformatics
+- My interests include (and are NOT limited to) diagnostics, new sequencing technologies (especially single cell sequencing), and bioinformatics
 - Reach me via Twitter @audrainess or audrainess@gmail.com! :) 
 
 <!---
